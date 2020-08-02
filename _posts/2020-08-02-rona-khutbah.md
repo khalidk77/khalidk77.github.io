@@ -2,7 +2,7 @@
 published: true
 title: Rona Eid!!!
 categories:
-  - blog
+  - khutbah
 tags:
   - Jekyll
   - update
