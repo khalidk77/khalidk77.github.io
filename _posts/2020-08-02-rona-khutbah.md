@@ -10,8 +10,10 @@ tags:
 **Hi!  This is about the khutbah for eid**
 
 **rona eid**
-
-![pearls]({{site.baseurl}}/https://images.pexels.com/photos/33234/nautilus-shell-shimmer-silver.jpg)
+<figure >
+    <img src="/assets/images/shell.jpg"  width="600">
+    <figcaption>Caption describing this image.</figcaption>
+</figure>
 
 **all about this**
 > This is a test to see how it will look
