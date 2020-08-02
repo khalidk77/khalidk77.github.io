@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Welcome to Jekyll!
 categories:
   - blog
