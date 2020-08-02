@@ -1,5 +1,6 @@
 ---
 published: true
+date: 2020-08-02T15:36:30-04:00
 categories:
   - khutbah
 tags: null
