@@ -5,6 +5,7 @@ title: Rona Eid!!!
 categories:
   - khutbah
 tags:
+  - khutbah
   - Jekyll
   - update
 ---
