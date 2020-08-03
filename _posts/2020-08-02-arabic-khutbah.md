@@ -3,7 +3,8 @@ published: true
 date: 2020-08-02T15:36:30-04:00
 categories:
   - khutbah
-tags: null
+tags: 
+  - khutbah
 related_posts: 
   - rona-eid
   
